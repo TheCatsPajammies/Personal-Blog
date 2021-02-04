@@ -8,8 +8,7 @@ This is the 1st project for the [Udacity](https://www.udacity.com/course/front-e
 
 * Demonstrate knowledge of HTML and CSS
 * Demonstrate proper organization and structure of files for a simple web page app
-* How to use CSS Grid and Flexbox for responsive design
-* How to use media queries to format page display for different screen resolutions
+* How to use CSS Grid and Flexbox along with media queries to create a responsive design
 * How to properly use imports for multiple css style sheets 
 
 ## Main Languages and Tools Utilized
